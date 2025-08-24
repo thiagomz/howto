@@ -1,2 +1,2 @@
 # howto
-How to do something
+Siga para o Wiki https://github.com/thiagomz/howto/wiki
